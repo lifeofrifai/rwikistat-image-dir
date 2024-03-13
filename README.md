@@ -1,0 +1,1 @@
+# rwikistat-image-dir
